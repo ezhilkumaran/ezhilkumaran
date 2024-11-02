@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezhilkumaran
 - 👀 I’m interested in scripting, mobile apps, automation and making anything more efficient and simple.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning to create universal apps with expo
 - 💞️ I’m looking to collaborate on any kind of automation projects
 - 📫 How to reach me -> 
 
